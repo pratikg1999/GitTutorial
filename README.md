@@ -1,1 +1,1 @@
-This is an empty git repository
+This is the second statement
